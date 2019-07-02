@@ -8,7 +8,7 @@ export default class Cover extends Component {
                 <div className="container">
                     <div className="row">
                         <div className="col-lg-11 mx-auto">
-                            <h1 className="text-white font-tertiary">Hi! I’m <br /> Christoher <br /> UX designer</h1>
+                            <h1 className="text-white font-tertiary">Hi! I’m Thang<br /> Web Developer</h1>
                         </div>
                     </div>
                 </div>

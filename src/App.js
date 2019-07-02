@@ -1,6 +1,7 @@
 import React from 'react';
 import logo from './logo.svg';
-import './App.css';
+import './scss/style.scss';
+
 import Headers from './components/sections/Header'
 import Cover from './components/sections/Cover';
 import About from './components/sections/About';

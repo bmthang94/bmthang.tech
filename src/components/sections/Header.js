@@ -5,7 +5,7 @@ export default class Header extends Component {
         return (
             <header className="navigation fixed-top">
                 <nav className="navbar navbar-expand-lg navbar-dark">
-                    <a className="navbar-brand font-tertiary h3" href="index.html"><img src="images/logo.png" alt="Myself" /></a>
+                    <a className="navbar-brand font-tertiary h3" href="index.html">.Tech</a>
                     <button className="navbar-toggler" type="button" data-toggle="collapse" data-target="#navigation"
                         aria-controls="navigation" aria-expanded="false" aria-label="Toggle navigation">
                         <span className="navbar-toggler-icon"></span>
